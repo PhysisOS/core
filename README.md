@@ -31,9 +31,7 @@ PhysisOS is Linux for human consciousness: open-source, decentralized, heart-ali
 
 ## 🚀 How to Join (60 sec)
 1. ⭐ Star this repo  
-2. Drop a creation in [Farcaster #physisos](https://warpcast.com/~/channel/physisos)  
-3. Earn **Φ reputation token** (testnet live)  
-4. Join tonight’s **Resonance Circle** @ 19:00 UTC → [Zoom Link]
+2. Contribute to this repo and earn **Φ Phedits** (Physical Credits)
 
 ---
 
@@ -51,7 +49,7 @@ Apply → DM @PhysisOS: “Hub Seed + [Your City]”
 ---
 
 > **First commit**: `init: seed PhysisOS with love-aligned kernel. frequency = 7.83 Hz. all contributors are khalifah.`  
-> [View Commit →](https://github.com/PhysisOS/core/commit/<HASH>)
+> [View Commit →](https://github.com/PhysisOS/core/commit/e8e37f89a7b3221e3c29186ac480d0723bbc2efb)
 
 ---
 
